@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  radarr:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-02T22:40:24.990612191+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 5609b5e09fb91cd905c9fcb64131ad55b28eb34e8fbc79a7f3f6031a51a06ad2
+    name: radarr
+    type: application
+    urls:
+    - radarr-0.1.0.tgz
+    version: 0.1.0
+  sonarr:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-02T22:40:24.991416689+01:00"
+    description: A Helm chart for Kubernetes
+    digest: fd44d50aeb13fbc9db811788b88e1c3ab1c5d823a667c0a042d04e0a10ca9883
+    name: sonarr
+    type: application
+    urls:
+    - sonarr-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-02T22:40:24.989580811+01:00"
